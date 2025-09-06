@@ -1,0 +1,5 @@
+flask
+yt-dlp
+PyPDF2
+pdfminer.six
+gunicorn

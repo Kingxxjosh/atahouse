@@ -1,0 +1,1 @@
+web: gunicorn atahouse_app:app
