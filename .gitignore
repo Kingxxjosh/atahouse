@@ -1,2 +1,11 @@
+# Git ignore file 
+__pycache__/ 
+*.pyc 
+*.pyo 
+*.pyd 
 venv/ 
-venv/ 
+env/ 
+tmp/ 
+*.log 
+atahouse_clean/ 
+python 
